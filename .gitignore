@@ -1,0 +1,6 @@
+*.zip
+*.asv
+*.fig
+*.mat
+*.m~
+*.DS_Store
