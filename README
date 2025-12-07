@@ -1,0 +1,16 @@
+echo "# LIF & Hodgkin–Huxley Neuron Models
+
+MATLAB implementations of LIF & HH neuron models, including run scripts, generated figures, and presentation.
+
+## Files
+- Code/ — MATLAB source files
+- Figures/ — Output plots
+- PPT/ — Presentation
+
+## Author
+Sanjana Singh, IIT Gandhinagar
+" >> README.md
+
+git add README.md
+git commit -m "Add README"
+git push
