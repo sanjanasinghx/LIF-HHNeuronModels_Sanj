@@ -1,0 +1,4 @@
+echo "MIT License" >> LICENSE
+git add LICENSE
+git commit -m "Add license"
+git push
